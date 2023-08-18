@@ -1,22 +1,22 @@
 {"configs": [
     {
         "name": "bmc",
-        "link": {"value": "https://raw.githubusercontent.com/JonnyOnlineYT/falconconfigs/main/bmc.json"},
+        "link": {"value": "https://raw.githubusercontent.com/Iskaa303/falconconfigs/main/bmc.json"},
         "id": {"value": 1}
     },
     {
         "name": "cheatmine",
-        "link": {"value": "https://raw.githubusercontent.com/JonnyOnlineYT/falconconfigs/main/cheatmine.json"},
+        "link": {"value": "https://raw.githubusercontent.com/Iskaa303/falconconfigs/main/cheatmine.json"},
         "id": {"value": 2}
     },
     {
         "name": "mineland",
-        "link": {"value": "https://raw.githubusercontent.com/JonnyOnlineYT/falconconfigs/main/mineland.json"},
+        "link": {"value": "https://raw.githubusercontent.com/Iskaa303/falconconfigs/main/mineland.json"},
         "id": {"value": 3}
     },
     {
         "name": "skycave",
-        "link": {"value": "https://raw.githubusercontent.com/JonnyOnlineYT/falconconfigs/main/skycave.json"},
+        "link": {"value": "https://raw.githubusercontent.com/Iskaa303/falconconfigs/main/skycave.json"},
         "id": {"value": 4}
     }
 ]}
